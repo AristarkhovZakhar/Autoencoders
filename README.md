@@ -1,5 +1,5 @@
 # Autoencoders
-VAE, Vanilla Autoencoder, Conditional VAE, Latent representation
+VAE, Vanilla Autoencoder, Conditional VAE, Latent representation.
 Были реализованы VAE и Conditional VAE, изучались методы снижения размерности и оценки схожести распределения фичей на основе дивергенции Кульбака-Лейблера.
 ![изображение](https://user-images.githubusercontent.com/110375755/218839080-0a97a440-12c5-4a4b-aeda-980f01e3dfa4.png)
 
